@@ -1,6 +1,7 @@
 Para utilizar la aplicación, primero se necesita instalar algunas librerias librerias con estos comandos:
 
 pip install tk
+
 pip install pymongo
 
 Despues en el codigo de python se importarian asi (ya estan importados en este codigo):
