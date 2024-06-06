@@ -1,7 +1,5 @@
 Para poder utilizar la aplicacion, primero tendremos que instalar unas librerias. Las encontraras en el fichero Requirements.txt
 
-
-
 import tkinter as tk import tkinter.simpledialog as simpledialog form tkinter import ttk, messagebox from pymongo import MongoClient, errors
 
 Por ultimo en la linea 526, en la que esta "self.client = MongoClient('mongodb://192.168.200.144/') tendrás que cambiar la ip por la de tu dispositivo.
