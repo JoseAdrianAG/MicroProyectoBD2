@@ -1,4 +1,4 @@
-Para utilizar la aplicación, primero se necesita instalar algunas librerias librerias con estos comandos:
+Para utilizar la aplicación, primero se necesita instalar algunas librerias con estos comandos:
 
 pip install tk
 
