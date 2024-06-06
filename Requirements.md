@@ -11,7 +11,7 @@ import tkinter.simpledialog as simpledialog
 form tkinter import ttk, messagebox
 from pymongo import MongoClient, errors
 
-Por ultimo en la linea 389, en la que esta "self.client = MongoClient('mongodb://192.168.200.144/')
+Por ultimo en la linea 526, en la que esta "self.client = MongoClient('mongodb://192.168.200.144/')
 tendrás que cambiar la ip por la de dispositivo.
 
 Ahora para que se pueda conectar a la base de datos de MongoDB tendrás que iniciar el servicio
