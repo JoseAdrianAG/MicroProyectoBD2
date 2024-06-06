@@ -1,7 +1,9 @@
 Libreria tk:
-pip install tk // sudo apt install python3-tk
+Instalacion con el comando pip: pip install tk 
+Instalacion con el comando apt install: sudo apt install python3-tk
 
 Libreria pymongo
+Hay que instalarlo con el comando pip
 Paso 1: sudo apt install python3-pip
 Paso 2: pip3 install pymongo
 
