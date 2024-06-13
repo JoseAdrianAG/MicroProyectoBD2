@@ -1,18 +1,8 @@
 Libreria tk:
-Instalacion con el comando pip: pip install tk 
-Instalacion con el comando apt install: sudo apt install python3-tk
+python3-tk
 
-Libreria pymongo
-Hay que instalarlo con el comando pip
-Paso 1: sudo apt install python3-pip
-Paso 2: pip3 install pymongo
-
-Lineas de las librerias en el codigo (ya estan implementadas en el codigo adjunto):
-import tkinter as tk
-import tkinter.simpledialog as simpledialog
-from tkinter import ttk, messagebox
-from pymongo import MongoClient, errors
-
+Libreria pymongo:
+pymongo
 
 
 
